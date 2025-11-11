@@ -531,5 +531,3 @@ export default function App() {
 // 2) Install packages: run `npm install` then `npm run dev`.
 // 3) Tailwind requires PostCSS and tailwind packages already listed.
 // 4) This scaffold focuses on teaching UX and interactivity; extend each project folder with safe lab code and README inside each project for students.
-
-// End of generated project
